@@ -1,0 +1,14 @@
+.img {
+    height: 100px;
+    width: 100px;
+}
+
+
+.selected {
+    color:aqua;
+}
+
+.loading {
+    height: 100px;
+    width: 100px;
+}

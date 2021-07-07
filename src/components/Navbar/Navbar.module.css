@@ -1,0 +1,13 @@
+.nav {
+  grid-area: n;
+  background-color: blue;
+  color:aqua;
+}
+a {
+  text-decoration: none;
+  color:aqua
+}
+
+.active {
+  color:darkmagenta;
+}

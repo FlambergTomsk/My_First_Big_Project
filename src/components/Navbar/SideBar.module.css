@@ -1,0 +1,12 @@
+.friends img {
+
+  width: 50px;
+  border-radius: 25px;
+  display: inline-block;
+}
+
+.friends {
+  display:inline-block;
+  color:chartreuse;
+  text-align: center;
+}
